@@ -76,7 +76,6 @@ LANDSAT_FILES = [
     "landsat/landsat_SR_BENGA_LC08_139044_20191121__2.tif",
     "landsat/landsat_SR_JAM2018_LC08_220075_20200420__.tif",
     "landsat/landsat_SR_KUDALIAR_LC08_144047_20200416_.tif",
-    "landsat/landsat_rapideye_area.tif",
     "landsat/landsat_SR_SO1_LC08_199030_20191008__.tif",
     "landsat/landsat_SR_SO2_LC08_198030_20200222__.tif",
     "landsat/landsat_SR_SUDOUE-2_LC08_199030_20200722.tif",
